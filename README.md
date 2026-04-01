@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- ASCII art header that blends code + art -->
+
 ```
    ╔══════════════════════════════════════════════════╗
    ║  ▄▀▄ █▄░█ █▀▀ █▀▀ █░░ █ █▄░█ ▄▀▄  █░█ █░█ ▄▀▄ █▄░█ █▀▀  ║
@@ -46,7 +47,9 @@ Interested in **Technical Art**, **Creative Engineering**, **Graphics**, or wher
 </div>
 
 ### Streaks
+
 ---
+
 <div align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com/?user=angelinahuang007&theme=tokyonight&hide_border=true" />
@@ -69,10 +72,8 @@ Interested in **Technical Art**, **Creative Engineering**, **Graphics**, or wher
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_angelina.007_)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Angelina007H)
 
-
 </div>
 
-<!-- komarev counter (hidden, keeps counting) -->
 <img src="https://komarev.com/ghpvc/?username=angelinahuang007" height="0" width="0" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6366f1,100:38bdf8&height=120&section=footer&text=Profile%20Views%3A%200&fontSize=14&fontColor=ffffffcc&fontAlignY=65&animation=twinkling&fontWeight=300" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6366f1,100:38bdf8&height=160&section=footer&text=Profile%20Views%3A%200&fontSize=16&fontColor=ffffffcc&fontAlignY=65&fontWeight=100" />
