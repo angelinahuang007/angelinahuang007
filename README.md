@@ -34,45 +34,6 @@ Interested in **Technical Art**, **Creative Engineering**, **Graphics**, or wher
 
 ---
 
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🎮 Game Jams**
-Seaside Mini Jam · Colornation · HACKXR (VR) · Trijams collection
-<br><sub>Unity / Godot / C#</sub>
-
-</td>
-<td width="50%">
-
-**🔺 Graphics & Shaders**
-Houdini procedural modeling · Ray Tracing · Vertex shader bootcamp
-<br><sub>GLSL / C++ / Houdini</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤖 ML Pipeline**
-PDStars — YOLO training, Blender synthetic data generation, 3D analysis
-<br><sub>Python / YOLOv8 / Blender</sub>
-
-</td>
-<td width="50%">
-
-**🌐 Web & Tools**
-kiri.work personal site · Interview Records Builder · MiscCodeCraft utilities
-<br><sub>Next.js / Django / SwiftUI</sub>
-
-</td>
-</tr>
-</table>
-
----
-
 ### Stats
 
 <div align="center">
