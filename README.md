@@ -76,11 +76,17 @@ kiri.work personal site · Interview Records Builder · MiscCodeCraft utilities
 ### Stats
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=angelinahuang007&count_private=true&theme=tokyonight&show_icons=true&hide_border=true" />
+<a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+  <img height="160px" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=angelinahuang007&count_private=true&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinahuang007&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+  <img height="160px" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=angelinahuang007&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+</div>
+
+<div align="center">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=angelinahuang007&theme=tokyonight&hide_border=true" />
 </a>
 </div>
 
