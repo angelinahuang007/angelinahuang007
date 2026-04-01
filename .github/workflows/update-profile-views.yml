@@ -2,7 +2,7 @@ name: Update Profile Views
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 每 6 小时更新一次
+    - cron: '0 0 * * *'  # 每天 UTC 0:00 运行一次
   workflow_dispatch:        # 也可以手动触发
 
 jobs:
