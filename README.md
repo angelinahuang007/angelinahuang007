@@ -69,8 +69,11 @@ Interested in **Technical Art**, **Creative Engineering**, **Graphics**, or wher
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_angelina.007_)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Angelina007H)
 
-<br>
 
-<img src="https://komarev.com/ghpvc/?username=angelinahuang007&style=flat-square&color=6366f1" />
+</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6366f1,100:38bdf8&height=120&section=footer&text=Profile%20Views%3A&fontSize=14&fontColor=ffffff&fontAlignY=75&desc=&descSize=12&descAlignY=90&animation=twinkling" />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=angelinahuang007&style=for-the-badge&color=1a1b27&label=VISITORS" />
 </div>
