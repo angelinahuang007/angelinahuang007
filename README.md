@@ -84,6 +84,8 @@ kiri.work personal site · Interview Records Builder · MiscCodeCraft utilities
 </a>
 </div>
 
+### Streaks
+---
 <div align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com/?user=angelinahuang007&theme=tokyonight&hide_border=true" />
@@ -91,9 +93,9 @@ kiri.work personal site · Interview Records Builder · MiscCodeCraft utilities
 </div>
 
 ---
-
+### LINKS
 <div align="center">
-<sub>📫 Find me at <a href="https://kiri.work">kiri.work</a></sub>
+<sub>Find me at <a href="https://kiri.work">kiri.work</a></sub>
 <br>
 <img src="https://komarev.com/ghpvc/?username=angelinahuang007&style=flat-square&color=6366f1" />
 </div>
