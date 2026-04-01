@@ -1,0 +1,46 @@
+name: Update Profile Views
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每 6 小时更新一次
+  workflow_dispatch:        # 也可以手动触发
+
+jobs:
+  update-views:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch profile view count from komarev badge
+        run: |
+          # 获取 komarev SVG 并提取数字
+          SVG=$(curl -s "https://komarev.com/ghpvc/?username=angelinahuang007&style=flat&label=views")
+          COUNT=$(echo "$SVG" | grep -oP '(?<=>)\d+(?=</text>)' | tail -1)
+
+          # 如果没拿到数字，用 0
+          if [ -z "$COUNT" ]; then
+            echo "Could not fetch view count, skipping"
+            exit 0
+          fi
+
+          echo "Profile views: $COUNT"
+
+          # URL encode the text for capsule-render
+          ENCODED_TEXT="Profile%20Views%3A%20${COUNT}"
+
+          # 替换 README 中 capsule-render 的 text 参数
+          sed -i "s|text=Profile%20Views%3A%20[0-9]*|text=${ENCODED_TEXT}|g" README.md
+
+          # 检查是否有变化
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update profile views count to ${COUNT}"
+          git push

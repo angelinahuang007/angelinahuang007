@@ -72,8 +72,7 @@ Interested in **Technical Art**, **Creative Engineering**, **Graphics**, or wher
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6366f1,100:38bdf8&height=120&section=footer&text=Profile%20Views%3A&fontSize=14&fontColor=ffffff&fontAlignY=75&desc=&descSize=12&descAlignY=90&animation=twinkling" />
+<!-- komarev counter (hidden, keeps counting) -->
+<img src="https://komarev.com/ghpvc/?username=angelinahuang007" height="0" width="0" />
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=angelinahuang007&style=for-the-badge&color=1a1b27&label=VISITORS" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6366f1,100:38bdf8&height=120&section=footer&text=Profile%20Views%3A%200&fontSize=16&fontColor=ffffff&fontAlignY=55&animation=twinkling" />
