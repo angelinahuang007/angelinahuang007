@@ -1,36 +1,93 @@
-### Hi, Angelina here.
-This is Angelina Huang, studied in UCSD major in Interdisciplinary Computing and Art. I love web designs and game development (3D) and VR environments.
+<div align="center">
 
-## 🔭 I’m currently working on ...
-<!--https://github.com/Mielan/Global-Game-Jam
-[![Readme Card](https://github.com/Mielan/Global-Game-Jam/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
--->
+<!-- ASCII art header that blends code + art -->
+```
+   ╔══════════════════════════════════════════════════╗
+   ║  ▄▀▄ █▄░█ █▀▀ █▀▀ █░░ █ █▄░█ ▄▀▄  █░█ █░█ ▄▀▄ █▄░█ █▀▀  ║
+   ║  █▀█ █░▀█ █▄█ ██▄ █▄▄ █ █░▀█ █▀█  █▀█ █▄█ █▀█ █░▀█ █▄█  ║
+   ╚══════════════════════════════════════════════════╝
+```
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mielan&repo=MUS-170&theme=dracula)](https://github.com/Mielan/MUS-LAN)
+**Computing × Art** · Exploring the space where code meets creativity
 
-## My Stats
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md -->
+</div>
+
+---
+
+### About Me
+
+I'm Angelina — a developer and artist navigating the intersection of technology and visual expression. UCSD Interdisciplinary Computing and Art graduate. I build games, shaders, procedural worlds, ML pipelines, and sometimes things that don't fit neatly into any category.
+
+Currently figuring out what's next. Open to opportunities in **Technical Art**, **Creative Engineering**, **Graphics**, or wherever code and aesthetics collide.
+
+---
+
+### What I Work With
+
+**Creative & Graphics** · Unity · Godot · Houdini · GLSL · Blender · Shader Programming
+
+**ML & Vision** · YOLOv8 · Synthetic Data · MLOps · Computer Vision
+
+**Web & Apps** · Next.js · React · Django · SwiftUI · TypeScript
+
+**Fundamentals** · C++ · Python · Java · C# · Git
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🎮 Game Jams**
+Seaside Mini Jam · Colornation · HACKXR (VR) · Trijams collection
+<br><sub>Unity / Godot / C#</sub>
+
+</td>
+<td width="50%">
+
+**🔺 Graphics & Shaders**
+Houdini procedural modeling · Ray Tracing · Vertex shader bootcamp
+<br><sub>GLSL / C++ / Houdini</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤖 ML Pipeline**
+PDStars — YOLO training, Blender synthetic data generation, 3D analysis
+<br><sub>Python / YOLOv8 / Blender</sub>
+
+</td>
+<td width="50%">
+
+**🌐 Web & Tools**
+kiri.work personal site · Interview Records Builder · MiscCodeCraft utilities
+<br><sub>Next.js / Django / SwiftUI</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### Stats
+
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mielan&count_private=true&theme=dracula&show_icons=true" />
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=angelinahuang007&count_private=true&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mielan&layout=compact&theme=dracula&show_icons=true" />
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinahuang007&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
+</div>
 
+---
 
-<!--
-**Mielan/Mielan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://komarev.com/ghpvc/?username=Mielan)
+<div align="center">
+<sub>📫 Find me at <a href="https://kiri.work">kiri.work</a></sub>
+<br>
+<img src="https://komarev.com/ghpvc/?username=angelinahuang007&style=flat-square&color=6366f1" />
+</div>
