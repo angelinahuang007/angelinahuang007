@@ -13,13 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch profile view count from komarev badge
+      - name: Fetch profile view count and update wave SVG
         run: |
           # 获取 komarev SVG 并提取数字
           SVG=$(curl -s "https://komarev.com/ghpvc/?username=angelinahuang007&style=flat&label=views")
           COUNT=$(echo "$SVG" | grep -oP '(?<=>)\d+(?=</text>)' | tail -1)
 
-          # 如果没拿到数字，用 0
+          # 如果没拿到数字，跳过
           if [ -z "$COUNT" ]; then
             echo "Could not fetch view count, skipping"
             exit 0
@@ -27,20 +27,17 @@ jobs:
 
           echo "Profile views: $COUNT"
 
-          # URL encode the text for capsule-render
-          ENCODED_TEXT="Profile%20Views%3A%20${COUNT}"
-
-          # 替换 README 中 capsule-render 的 text 参数
-          sed -i "s|text=Profile%20Views%3A%20[0-9]*|text=${ENCODED_TEXT}|g" README.md
+          # 替换 SVG 文件中的 Profile Views 数字
+          sed -i "s|Profile Views: [0-9]*|Profile Views: ${COUNT}|g" assets/wave-footer.svg
 
           # 检查是否有变化
-          if git diff --quiet README.md; then
+          if git diff --quiet assets/wave-footer.svg; then
             echo "No changes to commit"
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add assets/wave-footer.svg
           git commit -m "Update profile views count to ${COUNT}"
           git push
