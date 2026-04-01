@@ -18,7 +18,7 @@
 
 I'm Angelina — a developer and artist navigating the intersection of technology and visual expression. UCSD Interdisciplinary Computing and Art graduate. I build games, shaders, procedural worlds, ML pipelines, and sometimes things that don't fit neatly into any category.
 
-Currently figuring out what's next. Open to opportunities in **Technical Art**, **Creative Engineering**, **Graphics**, or wherever code and aesthetics collide.
+Interested in **Technical Art**, **Creative Engineering**, **Graphics**, or wherever code and aesthetics collide.
 
 ---
 
