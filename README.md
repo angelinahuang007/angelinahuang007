@@ -21,10 +21,7 @@ I'm Angelina — a developer and artist navigating the intersection of technolog
 
 ### What I Work With
 
-**Creative & Graphics** · Unity · Godot · Houdini · GLSL · Blender · Shader Programming
-**ML & Vision** · YOLOv8 · Synthetic Data · MLOps · Computer Vision
-**Web & Apps** · Next.js · React · Django · SwiftUI · TypeScript
-**Fundamentals** · C++ · Python · Java · C# · Git
+**Creative & Graphics** · Unity · Godot · Houdini · GLSL · Blender · Shader Programming · YOLOv8 · Synthetic Data · MLOps · Computer Vision · Next.js · React · Django · SwiftUI · TypeScript · C++ · Python · Java · C# · Git
 
 ---
 
@@ -54,11 +51,11 @@ I'm Angelina — a developer and artist navigating the intersection of technolog
 ### Connect
 
 <div align="center">
+   
 [![Portfolio](https://img.shields.io/badge/angelina007.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://angelina007.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaolan-angelina-huang/)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/angelinahuang007)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@angelina007huang)
-
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KiriOvO-z3p)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/12422321)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_angelina.007_)
